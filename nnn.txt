@@ -1,0 +1,25 @@
+- Source/Version Control
+	- Change - What, Who, When
+	- Svn, TFS, Git
+
+- Git
+	- Installation
+	- Cmd or Terminal or powershell or git bash to execute git commands
+	- git init - We initialized a folder as git repository
+
+	- git config - WHO part
+		- git config user.email "abc@gmail.com"
+		- git config user.name  "Hari Gautam"
+
+	- Any change (File add, delete, text content change) in that folder (git repo)
+		- git add --all
+		- git commit -m "Short which describe the changes"
+
+ class work
+	-Add fwu.txt to the repo and stage & commit the changes
+	- Add another image file fwu.png to the repo and commit
+
+	
+- GitHub 
+- Web Basics 
+- Static Site
